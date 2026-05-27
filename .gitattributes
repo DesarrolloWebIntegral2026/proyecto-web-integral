@@ -1,0 +1,15 @@
+# Configuración automática de finales de línea
+* text=auto
+
+# Archivos específicos como texto
+*.txt text
+*.md text
+*.js text
+*.html text
+*.css text
+*.json text
+
+# Archivos binarios
+*.png binary
+*.jpg binary
+*.ico binary
